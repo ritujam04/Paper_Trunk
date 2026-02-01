@@ -40,7 +40,7 @@ This Android application serves as a platform to connect users with shops and sh
 
 ## Architecture Diagram
 
-![Architecture Diagram](architecture-diagram.png)
+![Architecture Diagram](architecture_diagram.png)
 
 ### Architecture Flow Explanation
 
