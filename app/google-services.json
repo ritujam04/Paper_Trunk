@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1095457267191",
+    "project_id": "paper-trunk",
+    "storage_bucket": "paper-trunk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095457267191:android:6f48f720b88a2075ea62f2",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095457267191-eekitlc2u4bb5qnh859mu4p887l8o3ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1brYPfC1SH3owoTWNtiJn6Tcku5ln9Pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095457267191-eekitlc2u4bb5qnh859mu4p887l8o3ki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
